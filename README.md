@@ -1,0 +1,2 @@
+# End-to-End-Data-Science-Capstone-Web-Scraping-ML-Dashboard-
+End-to-End Data Science Capstone (Web Scraping + ML + Dashboard) A full data science workflow project involve web scraping, cleaning, EDA, model building, and interactive dashboard creation. Demonstrates real-world problem solving — transforming raw online data into structured insight predictive modeling outputs, &amp; busines-ready visual storytelling
